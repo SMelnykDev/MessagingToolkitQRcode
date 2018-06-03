@@ -1,0 +1,22 @@
+c:\users\юлия\documents\visual studio 2013\Projects\qr_code\qr_code\bin\Debug\qr_code.exe.config
+c:\users\юлия\documents\visual studio 2013\Projects\qr_code\qr_code\obj\Debug\qr_code.csprojResolveAssemblyReference.cache
+c:\users\юлия\documents\visual studio 2013\Projects\qr_code\qr_code\obj\Debug\qr_code.Form1.resources
+c:\users\юлия\documents\visual studio 2013\Projects\qr_code\qr_code\obj\Debug\qr_code.Properties.Resources.resources
+c:\users\юлия\documents\visual studio 2013\Projects\qr_code\qr_code\obj\Debug\qr_code.csproj.GenerateResource.Cache
+c:\users\юлия\documents\visual studio 2013\Projects\qr_code\qr_code\bin\Debug\qr_code.exe
+c:\users\юлия\documents\visual studio 2013\Projects\qr_code\qr_code\bin\Debug\qr_code.pdb
+c:\users\юлия\documents\visual studio 2013\Projects\qr_code\qr_code\bin\Debug\MessagingToolkit.QRCode.dll
+c:\users\юлия\documents\visual studio 2013\Projects\qr_code\qr_code\obj\Debug\qr_code.exe
+c:\users\юлия\documents\visual studio 2013\Projects\qr_code\qr_code\obj\Debug\qr_code.pdb
+C:\Users\Melnyk family\Downloads\qr_code\qr_code\qr_code\bin\Debug\qr_code.exe.config
+C:\Users\Melnyk family\Downloads\qr_code\qr_code\qr_code\obj\Debug\qr_code.exe
+C:\Users\Melnyk family\Downloads\qr_code\qr_code\qr_code\obj\Debug\qr_code.pdb
+C:\Users\Melnyk family\Downloads\qr_code\qr_code\qr_code\bin\Debug\qr_code.exe
+C:\Users\Melnyk family\Downloads\qr_code\qr_code\qr_code\bin\Debug\qr_code.pdb
+C:\Users\Melnyk family\Downloads\qr_code\qr_code\qr_code\obj\Debug\qr_code.csprojResolveAssemblyReference.cache
+C:\Users\Melnyk family\Downloads\qr_code\qr_code\qr_code\obj\Debug\qr_code.Form1.resources
+C:\Users\Melnyk family\Downloads\qr_code\qr_code\qr_code\obj\Debug\qr_code.Properties.Resources.resources
+C:\Users\Melnyk family\Downloads\qr_code\qr_code\qr_code\obj\Debug\qr_code.csproj.GenerateResource.Cache
+C:\Users\Melnyk family\Downloads\Work with QRcodes\MessagingToolkitQRcode\qr_code\bin\Debug\qr_code.exe.config
+C:\Users\Melnyk family\Downloads\Work with QRcodes\MessagingToolkitQRcode\qr_code\obj\Debug\qr_code.exe
+C:\Users\Melnyk family\Downloads\Work with QRcodes\MessagingToolkitQRcode\qr_code\obj\Debug\qr_code.pdb
