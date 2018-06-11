@@ -15,10 +15,13 @@ namespace qr_code
             button4.Enabled = false;
         }
 
+
         private void button1_Click(object sender, EventArgs e)
         {
             string qrtext = textBox1.Text;
             QRCodeEncoder encoder = new QRCodeEncoder();
+            encoder.QRCodeEncodeMode = QRCodeEncoder.ENCODE_MODE.BYTE;
+            encoder.QRCodeErrorCorrect = QRCodeEncoder.ERROR_CORRECTION.L; // - Using LOW for more storage
             Bitmap qrcode = encoder.Encode(qrtext);
             pictureBox1.Image = qrcode as Image;
             button2.Enabled = true;
@@ -59,6 +62,15 @@ namespace qr_code
                     "Error, can't recognized.",
                     MessageBoxButtons.OK,
                     MessageBoxIcon.Error);
+            }
+        }
+
+        private void textBox1_KeyPress(object sender, KeyPressEventArgs e)
+        {
+            char key = e.KeyChar;
+            if (key < 'A' || key > 'z')
+            {
+                e.Handled = true;
             }
         }
     }

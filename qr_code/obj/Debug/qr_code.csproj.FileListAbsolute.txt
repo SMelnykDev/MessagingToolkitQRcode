@@ -20,3 +20,22 @@ C:\Users\Melnyk family\Downloads\qr_code\qr_code\qr_code\obj\Debug\qr_code.cspro
 C:\Users\Melnyk family\Downloads\Work with QRcodes\MessagingToolkitQRcode\qr_code\bin\Debug\qr_code.exe.config
 C:\Users\Melnyk family\Downloads\Work with QRcodes\MessagingToolkitQRcode\qr_code\obj\Debug\qr_code.exe
 C:\Users\Melnyk family\Downloads\Work with QRcodes\MessagingToolkitQRcode\qr_code\obj\Debug\qr_code.pdb
+C:\Users\Melnyk family\Downloads\Work with QRcodes\qr_code\bin\Debug\qr_code.exe.config
+C:\Users\Melnyk family\Downloads\Work with QRcodes\qr_code\obj\Debug\qr_code.exe
+C:\Users\Melnyk family\Downloads\Work with QRcodes\qr_code\obj\Debug\qr_code.pdb
+C:\Users\Melnyk family\Downloads\Work with QRcodes\qr_code\bin\Debug\qr_code.exe
+C:\Users\Melnyk family\Downloads\Work with QRcodes\qr_code\bin\Debug\qr_code.pdb
+C:\Users\Melnyk family\Downloads\Work with QRcodes\qr_code\obj\Debug\qr_code.csprojResolveAssemblyReference.cache
+C:\Users\Melnyk family\Downloads\Work with QRcodes\qr_code\obj\Debug\qr_code.Form1.resources
+C:\Users\Melnyk family\Downloads\Work with QRcodes\qr_code\obj\Debug\qr_code.Properties.Resources.resources
+C:\Users\Melnyk family\Downloads\Work with QRcodes\qr_code\obj\Debug\qr_code.csproj.GenerateResource.Cache
+C:\Users\Melnyk family\Documents\Visual Studio 2015\Projects\Work with QRcodes\qr_code\bin\Debug\qr_code.exe.config
+C:\Users\Melnyk family\Documents\Visual Studio 2015\Projects\Work with QRcodes\qr_code\obj\Debug\qr_code.exe
+C:\Users\Melnyk family\Documents\Visual Studio 2015\Projects\Work with QRcodes\qr_code\obj\Debug\qr_code.pdb
+C:\Users\Melnyk family\Documents\Visual Studio 2015\Projects\Work with QRcodes\qr_code\obj\Debug\qr_code.csprojResolveAssemblyReference.cache
+C:\Users\Melnyk family\Documents\Visual Studio 2015\Projects\Work with QRcodes\qr_code\obj\Debug\qr_code.Form1.resources
+C:\Users\Melnyk family\Documents\Visual Studio 2015\Projects\Work with QRcodes\qr_code\obj\Debug\qr_code.Properties.Resources.resources
+C:\Users\Melnyk family\Documents\Visual Studio 2015\Projects\Work with QRcodes\qr_code\obj\Debug\qr_code.csproj.GenerateResource.Cache
+C:\Users\Melnyk family\Documents\Visual Studio 2015\Projects\Work with QRcodes\qr_code\bin\Debug\qr_code.exe
+C:\Users\Melnyk family\Documents\Visual Studio 2015\Projects\Work with QRcodes\qr_code\bin\Debug\qr_code.pdb
+C:\Users\Melnyk family\Documents\Visual Studio 2015\Projects\Work with QRcodes\qr_code\bin\Debug\MessagingToolkit.QRCode.dll
