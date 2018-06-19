@@ -39,3 +39,9 @@ C:\Users\Melnyk family\Documents\Visual Studio 2015\Projects\Work with QRcodes\q
 C:\Users\Melnyk family\Documents\Visual Studio 2015\Projects\Work with QRcodes\qr_code\bin\Debug\qr_code.exe
 C:\Users\Melnyk family\Documents\Visual Studio 2015\Projects\Work with QRcodes\qr_code\bin\Debug\qr_code.pdb
 C:\Users\Melnyk family\Documents\Visual Studio 2015\Projects\Work with QRcodes\qr_code\bin\Debug\MessagingToolkit.QRCode.dll
+C:\Users\Melnyk family\Documents\Visual Studio 2015\Projects\Work with QRcodes\qr_code\bin\Debug\zxing.dll
+C:\Users\Melnyk family\Documents\Visual Studio 2015\Projects\Work with QRcodes\qr_code\bin\Debug\zxing.presentation.dll
+C:\Users\Melnyk family\Documents\Visual Studio 2015\Projects\Work with QRcodes\qr_code\bin\Debug\zxing.pdb
+C:\Users\Melnyk family\Documents\Visual Studio 2015\Projects\Work with QRcodes\qr_code\bin\Debug\zxing.xml
+C:\Users\Melnyk family\Documents\Visual Studio 2015\Projects\Work with QRcodes\qr_code\bin\Debug\zxing.presentation.pdb
+C:\Users\Melnyk family\Documents\Visual Studio 2015\Projects\Work with QRcodes\qr_code\bin\Debug\zxing.presentation.xml
